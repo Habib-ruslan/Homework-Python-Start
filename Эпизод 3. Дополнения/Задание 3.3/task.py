@@ -29,6 +29,17 @@ def task_4(input_list):
 def task_5(key):
     data = open("file.txt", "r").read()
     rows = data.split('\n')
+    newRows = []
     for row in rows:
-        row
-    return rows
+        if '' == row:
+            continue
+        row = row.lower()
+        newRow = ''
+        for char in row:
+            if char.isalpha():
+                newChar = chr((ord(char) + key - 96) % 26 + 96)
+            else:
+                newChar = chr((ord(char) + key) + 64)
+            newRow += newChar
+        newRows.append(newRow)
+    return newRows

@@ -3,8 +3,8 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 107
-    length: 9
+  - offset: 33
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
@@ -13,54 +13,54 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 302
-    length: 4
+  - offset: 86
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 86
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 373
-    length: 93
+  - offset: 139
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 139
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 537
-    length: 92
+  - offset: 192
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 192
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 698
-    length: 91
+  - offset: 245
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 245
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 862
-    length: 77
+  - offset: 298
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 298
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
   encrypted_text: JrzofjUamUFCNd6xblui2/ve1j35OBscYyWxAc6AOu/dCCTZaGzRlSgiz10KTmmjScL2OV0eJwm3mmxtc7HKpYobj8lBrt6ZTaeHYq3coCf5+GWVQ/GIM4FLNxCk7mwD+SUMrQCZGQ4f6eXcRrPXdXR9MBhcQFOKSH9OcYKFpk5j2KNpjQZdKtN7NpvLonMmYq0H2PNdbS4ke7sj9E00ePv8sSYnuJGdCjntUG8NV0x2Me8KQBZNzdV/rsJx0hNjfRsHzDx78o0osPv143PgfEBsT2uskBDhQmC3CFzaylmf3aF2Vf4T/ESGfSVhIfXrq0O7GKcAV88wb0gTCHrlt4KyAxrR/LEiUZje+FeUko9/W4+FmlJTG7dFBwkg38AtgPOktdavZxXA7BzWJlld1DNjf5g0+cghe9XCPy+/dUtiX/hW7PvGS5gUPxIm/ScALVvK8Hz9mTFso/OuNI9mkzs0ZBSMc1wA+vdtWfZwyOU=
@@ -80,5 +80,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Mon, 27 Feb 2023 12:32:32 UTC"
+  time: "Mon, 27 Feb 2023 16:34:11 UTC"
 record: -1

@@ -20,11 +20,8 @@ files:
   visible: true
   encrypted_text: xcbVYoMG0wvPB0ubHYi9iiCB0Fgoey0/jLgofEHSvfEeZTidatK4WahkXGxEmoZ1
   learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: "Lists differ: ['Hello world', 'This is a last task', 'Good Luck', '']\
-    \ != ['jgnnqbyqtnf', 'vjkubkubcbncuvbvcum', 'iqqfbnwem']"
-  time: "Mon, 27 Feb 2023 16:06:50 UTC"
-  expected: "['Hello world', 'This is a last task', 'Good Luck', '']"
-  actual: "['jgnnqbyqtnf', 'vjkubkubcbncuvbvcum', 'iqqfbnwem']"
+  message: Congratulations!
+  time: "Mon, 27 Feb 2023 17:04:04 UTC"
 record: -1

@@ -3,34 +3,34 @@ files:
 - name: task.py
   visible: true
   placeholders:
-  - offset: 47
-    length: 71
+  - offset: 30
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 30
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 184
-    length: 50
+  - offset: 80
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 80
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
-  - offset: 287
-    length: 124
+  - offset: 130
+    length: 6
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 130
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: PXNohf98r8baGAWz0WMPaw==
   encrypted_text: JrzofjUamUFCNd6xblui22LsLIhH+LU9XKijVftMIr7RnhnxVoIRQQTKe3Dq0C2+vTqPXQo6Wd/I0C0Mg5N7D3RwTFcXvNdOJhNY1c4h/vvKWrztdtLsxmdFoKyH4gKKFKUpVE7DYlMzfwhhIMlB+KYCt/64XlTdjnSfu30q24LQYV4JjyQjcs81tX21RFj76NLhqaW5DMnKTl9f+WHwHOBHdcHczmQWlDg7BJZszS4=
@@ -50,5 +50,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Mon, 27 Feb 2023 13:08:40 UTC"
+  time: "Mon, 27 Feb 2023 16:34:32 UTC"
 record: -1
