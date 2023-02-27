@@ -32,9 +32,8 @@ def task_4(x, n):
 
 # Пример 5
 def task_5(x, n):
-    return 1.5
-    result = 1
-    for i in range(1, 10):
+    result = 0
+    for i in range(1, n + 1):
         result += x / 2
     return result
 
